@@ -1,0 +1,14 @@
+mayoclinic dataset & its related notebooks/arabic_bert_model/config.json
+mayoclinic dataset & its related notebooks/arabic_bert_model/id2label.json
+mayoclinic dataset & its related notebooks/arabic_bert_model/special_tokens_map.json
+mayoclinic dataset & its related notebooks/arabic_bert_model/tf_model.h5
+mayoclinic dataset & its related notebooks/arabic_bert_model/tokenizer_config.json
+mayoclinic dataset & its related notebooks/arabic_bert_model/tokenizer.json
+mayoclinic dataset & its related notebooks/arabic_bert_model/vocab.txt
+mayoclinic dataset & its related notebooks/arabic intent classifier/config.json
+mayoclinic dataset & its related notebooks/arabic intent classifier/id2label.json
+mayoclinic dataset & its related notebooks/arabic intent classifier/pytorch_model.bin
+mayoclinic dataset & its related notebooks/arabic intent classifier/special_tokens_map.json
+mayoclinic dataset & its related notebooks/arabic intent classifier/tokenizer_config.json
+mayoclinic dataset & its related notebooks/arabic intent classifier/tokenizer.json
+mayoclinic dataset & its related notebooks/arabic intent classifier/vocab.txt
